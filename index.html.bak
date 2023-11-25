@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Perfect bouquet</title>
+		<meta charset="UTF-8" />
+		<link href="https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Red+Hat+Display&display=swap" rel="stylesheet">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="shortcut icon" href="img/favicon.ico" />
+		
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+	</head>
+	<body>
+	<header>
+			<div id="svetli">
+					<div id="logo">
+							<a href="index.html"><li>PB</li></a>
+					</div>
+					
+						<div id="meni">
+							<ul>
+								<li><a href="index.html">NASLOVNA</a></li>
+								<li><a href="o_nama.html" target="_blank">O NAMA</a></li>
+								<li><a href="kontaktcvecara.html" target="_blank" >KONTAKT</a></li>
+							</ul>
+						</div>
+			</div>
+				<div id="naslov">
+					<h1>PERFECT BOUQUET</h1>
+					<p>Svaki događaj je poseban, ulepšajte ga savršenim buketom</p>
+				</div>
+	</header>
+			<div id="centar">
+				<div class="centriranje">
+				<h1>Naše usluge</h1>
+				<div id="slikatekst">
+					<div class="slike">
+						<a href="cvece.html" target="_blank"><img src="img/dostava.jpg" alt="Dostava"  /> </a>
+							<div class="tekst"><a href="cvece.html" target="_blank">Cveće</a></div>
+					</div>
+					<div class="slike">
+						<a href="vencanjegalerija.html" target="_blank"><img src="img/vencanje4.jpg" alt="Venčanje" /></a>
+							<div class="tekst"><a href="telo.html" target="_blank">Venčanje</a></div>
+					</div>
+					<div class="slike">
+						<a href="galerija.html" target="_blank"><img  src="img/galerija.jpg" alt="Galerija" /></a>
+							<div class="tekst"><a href="galerija.html" target="_blank">Galerija buketa</a></div>
+					</div>
+				</div>	
+				</div>	
+			</div>
+			<div id="centar2" >
+				<div id="levo">
+				<h2>Cvetni aranžmani</h2>
+					<p>Učinite svaki trenutak izvanrednim uz naše izuzetne cvetne aranžmane, savršene za rođendane, godišnjice ili jednostavno da nekome date do znanja da mislite na njih. Svaki aranžman je umetničko delo koje zrači ljubavlju i brigom.
+					</p>
+				</div>
+				<div id="desno">
+					<img src="img/cvece2.jpg" alt="Cveće" />
+				</div>
+				<div class="cistac"></div>
+			</div>
+			<span id="crtaFuter"></span>
+			<div id="futer">
+			<div class="centriranje">
+				<h3></h3>
+				<div id="krajnjiLinkovi"> 
+					<a href="kontaktcvecara.html" target="_blank"><i class="	fa fa-address-book"> Kontaktirajte nas</i></a> <br /> <br />
+					<a href="https://www.facebook.com/" ><i class="	fa fa-facebook-official"></i></a>
+				<a href="https://www.instagram.com/" ><i class="	fa fa-instagram"></i></a>
+				<p>&copy;Perfect Bouquet</p>
+				</div>
+			</div>
+			</div>
+			
+			<div class="vratiGore"  >
+			<a href="index.html">
+				<i class="fa fa-angle-up " ></i>
+			</a>
+			</div>
+		</body>
+	</html>
